@@ -2,23 +2,95 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="299">
-  <name>Qogir wallpaper</name>
+  <name>Gently-Nebula-Noir Wallpapers</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1308425</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1365306</homepage>
   <licence></licence>
-  <version></version>
-  <rating>50</rating>
-  <downloads>24057</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/wallpapers/Qogir-dark/*</installedfile>
-  <id>1308425</id>
-  <releasedate>2020-07-16</releasedate>
-  <summary>Qogir wallpaper</summary>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>151385</downloads>
+  <installedfile>/home/test/.local/share/wallpapers/Gently-Nebula-Noir No Logo.jpg</installedfile>
+  <id>1365306</id>
+  <releasedate>2020-03-07</releasedate>
+  <summary>&lt;strong>Gently-Nebula-Noir Wallpapers for Plasma Theme &lt;span style="color: blue;">Gently&lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1293160/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper with Plasma Logo and without Logo&lt;br />
+&lt;br />
+1920 x 1080&lt;/strong></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/5/8/6/5231a5ef1a42cb0ef84b689b39937b7ae95c.jpg</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/5/8/6/5231a5ef1a42cb0ef84b689b39937b7ae95c.jpg</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ5MTA3OTQiLCJvIjoiMSIsInMiOiIzNmRiMzkzZTA2NGMzNDY1NmUxODg5OTE4OGU2NjkzMWIwZTM4MjNiZWVlYTA4OWI5NWU2MzBhZGJhN2FmNjA1YzNlYmU2M2FlYTJmM2U3ZWQzYjUwNGRlN2I4ZDRkZjJmNjAwOTA2ZWYzODg1MTE4NGQ3MDdiYjcwNTQ3NjZjMCIsInQiOjE2MTc1NDQwMDksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.nBICaeQowYOB_A8qPnExFur4EIzpq-WRwjoCoL_N0OU/01-Qogir-dark.tar.xz</payload>
-  <tags>plasma,wallpaper,kde,gplv3,artwork</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1365306/74e001c5c5cf685d2a364779b2454aa9f6a61.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1365306/74e001c5c5cf685d2a364779b2454aa9f6a61.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODM1OTk2OTMiLCJvIjoiMSIsInMiOiI1ZjUwZjg5NjE5NWViOGE3NDM5YTA3MDViNmM2YjRlNzI2NWQ5NWIzYmI3ZTMzNjg3NzY3MjQ5YzE3MTQ4MDdlYTMxYjdiZjRmZDAzYTBhMDAzOGFhYjE2N2JiMTdlMDQ5NDI1ZjA0ZjdjZmViNDViMDVlYjc3ZDdlNTg1MzQ1MiIsInQiOjE2NjUxMzY2MTAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.tIFBe_YNaVV-___NfXEQ3m5qrV5FqIFJLyi2Hq9B1WU/Gently-Nebula-Noir No Logo.jpg</payload>
+  <tags>gplv3,modification-product,kde,wallpaper,artwork,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Infinity-Plasma-Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436542</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>54610</downloads>
+  <installedfile>/home/test/.local/share/wallpapers/Infinity-Plasma.jpg</installedfile>
+  <id>1436542</id>
+  <releasedate>2020-10-21</releasedate>
+  <summary>&lt;strong>Infinity-Plasma-Wallpaper for Dark  Plasma Theme &lt;span style="color: #bf616a;">Infinity-Plasma&lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Wallpaper "Tela color" by vinceliuice: &lt;a href="https://store.kde.org/p/1307853/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+1920 x 1080&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1436542/e172bc222516910f0553d5d9096ec41f7bc55e9f6f3faaf651073d6640f41d54768e.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1436542/e172bc222516910f0553d5d9096ec41f7bc55e9f6f3faaf651073d6640f41d54768e.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDMyNjkyMjAiLCJvIjoiMSIsInMiOiI1ODFhMjE1ZDE0N2ViNDU5ZmNjNGEzMDZmY2I1ZmI3YTI3MjE3MmU5Y2U1MDk2NWQxODllZGJkYzMxNjE5ZDE5MzY5ZmExMDJlOTc0NjA1ODczMDM0MTE5MDE1YTI5NjczODhmMGY3MTAwM2MzYjE4NTFkNmM0ZTUzMjZkMTdlYSIsInQiOjE2NjUxMzY2MjAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.iCWUHwc_CJEcSpfRwmKk2xzbi6wOOGChURBVMpsohbk/Infinity-Plasma.jpg</payload>
+  <tags>artwork,plasma,efi,gplv3,kde,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Infinity-Material-Wallpapers</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436541</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>37980</downloads>
+  <installedfile>/home/test/.local/share/wallpapers/Infinity-Material-Logo.jpg</installedfile>
+  <id>1436541</id>
+  <releasedate>2020-10-21</releasedate>
+  <summary>&lt;strong>Infinity-Material Wallpapers for Dark Plasma Theme &lt;span style="color: #bf616a;">Infinity-Plasma&lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Wallpaper "Tela color" by vinceliuice: &lt;a href="https://store.kde.org/p/1307853/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+1920 x 1080&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1436541/a31ec02c3b1ba711be0a8f49cc18df7f617c71174c5fc29451a997394d451cf02798.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1436541/a31ec02c3b1ba711be0a8f49cc18df7f617c71174c5fc29451a997394d451cf02798.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDMyNjkzNzkiLCJvIjoiMSIsInMiOiI1NDg1ZjEzMzU5YWZmYWU5ZDEyNmY4YmUyOTM1ZGIyNWQ5NTRhNmRhZjFjNDI5OWRkMjVjMzYzZDM1NjlmY2U0ODg0Y2YwMDkwZDAzNDMxNzFiYzZjY2U0NTMxMGM1MGE1NmQ0MTQ1YWQ5NjMxN2U4ODNmOWJmYTZjNzZlNjcwMSIsInQiOjE2NjUxMzY2MTQsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.sldN7gbBP4cUKfIeQYBLchiFnqK2t0Hq3jonCy3NHE8/Infinity-Material-Logo.jpg</payload>
+  <tags>wallpaper,gplv3,efi,artwork,abstract</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Utterly Nord</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1904144</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>50</rating>
+  <downloads>3817</downloads>
+  <installedfile>/home/test/.local/share/wallpapers/Utterly-Nord/*</installedfile>
+  <id>1904144</id>
+  <releasedate>2022-09-22</releasedate>
+  <summary>A Nordic Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1904144/nord-lake-720p.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1904144/nord-lake-720p.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjM4MTY1NDAiLCJvIjoiMSIsInMiOiJhNWY1ODMwNzllMTFmMjU0MThkMjljYzdhNjU4YzQ0NWUzMTllMWQxYTA2ZTJmZmY0NDU0MmRkOGU5ZDdhOTJjYmJmYjRkZWUzODJmM2UzZDhiOGI5Yzc0MzdlNTNlZTQxZTJhODhhNTI0YzdjYTAwNTU0NGQ3ZGU3YjExMmEyMSIsInQiOjE2NjUxMzY2NjEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.IHOmArPhG5axwnIe6n6v5puOa83rH98UGOFZme8vSGg/Utterly-Nord-Wallpaper.tar.xz</payload>
+  <tags>nord,nordic,plasma,efi,gplv2-later,kde,ultrahd,artwork,wallpaper</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

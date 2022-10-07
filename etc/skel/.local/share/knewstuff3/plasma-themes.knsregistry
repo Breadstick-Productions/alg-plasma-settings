@@ -2,31 +2,95 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="104">
-  <name>Qogir Plasma Theme</name>
+  <name>Infinity-Plasma</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1298357</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436579</homepage>
   <licence></licence>
-  <version></version>
-  <rating>77</rating>
-  <downloads>33648</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/plasma/desktoptheme/Qogir-dark</installedfile>
-  <id>1298357</id>
-  <releasedate>2020-05-06</releasedate>
-  <summary>&lt;strong> Qogir KDE Plasma Theme &lt;/strong>&lt;br />
+  <version>1.0</version>
+  <rating>75</rating>
+  <downloads>237</downloads>
+  <installedfile>/home/test/.local/share/plasma/desktoptheme/Infinity-Plasma</installedfile>
+  <id>1436579</id>
+  <releasedate>2022-10-05</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur. Enabled Blurred Widgets for Plasma 5.23&lt;br />
+___________________&lt;br />
 &lt;br />
-Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436570/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
 &lt;br />
-&lt;strong> Recommendations &lt;/strong>&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436567/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+___________________ &lt;br />
 &lt;br />
- For better looking please use this pack with:&lt;br />
+Icons: &lt;span style="color: #006dda;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
 &lt;br />
-&lt;strong>Qogir Kvantum theme&lt;/strong>: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+Icons: &lt;span style="color: #006dda;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Kvantum&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436575/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel) &lt;span style="color: #006dda;"> &lt;strong>Infinity-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436583/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Plasma Color Scheme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436564/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Color Scheme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436562/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1439900" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436560/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-SDDM&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436554/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436556/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Konsole&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436551/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-GTK&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436585/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;strong>If you do not use the Kvantum Theme,For Blur look of the window, Kwin Scripts:&lt;span style="color: #006dda;"> &lt;strong>Force Blur&lt;/strong> &lt;/span>, authored by &lt;span style="color: #3771c8;"> &lt;strong>ESJEON&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1294604/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg3NjEzNDQiLCJvIjoiMSIsInMiOiIyZWViMGMwYzQ4NDc4MjQyNjJmYjQ4ZmMyMDZlNTgzYzAyYWE5NDFiMmY2ZGJjNWIzODljOTE4MjViN2Y4NDVkYTg5ZGQ4Y2E2MTc3ZTE1ZTJiMDdmMmQ1MTE4MmZiZjJhMmEwMDA3ZjY1Y2IxNTU3MzJiMWNmMWY3NDUyOGVhNCIsInQiOjE2MTc1NDM5NzcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.h7G8MMZiggZbhQAbg6w5OL-9xCbq9AMKQlhd5glzaik/Qogir-dark.tar.xz</payload>
-  <tags>linux,gplv3,kde,plasma,original-product,theme,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1436579/e53e97226a39a7026c246fb14bf1ff2f5bb363ee616d12f2820adb58d63628c04559.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1436579/e53e97226a39a7026c246fb14bf1ff2f5bb363ee616d12f2820adb58d63628c04559.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQ5OTUzODEiLCJvIjoiMSIsInMiOiIyM2RmN2E2MmEzZDc5ZThmN2Q2MDRlMTE4M2JmZGY1NDY4MjhiMGRlYWQ0NjZiMzk4ZDVkM2YxMzdjNDQ4NjNjZDBhNTU4YWE1N2I4NTBjMWFiMWQ3NjZlZGFiN2QyMjU1M2ZiOWJmMDU2ZTllOTJlYjkwZjg3YmZjMWVlNzFiMSIsInQiOjE2NjUxMzY1MjEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.J449hqWsBlxm9MWfjZbsm9muA8LTgm3vhgxJ9aQxw6k/Infinity-Plasma.tar.gz</payload>
+  <tags>theme,unix,plasma,original-product,linux,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Utterly Round</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1901768</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>50</rating>
+  <downloads>10216</downloads>
+  <installedfile>/home/test/.local/share/plasma/desktoptheme/Utterly-Round</installedfile>
+  <id>1901768</id>
+  <releasedate>2022-09-17</releasedate>
+  <summary>A round cornered theme for KDE Plasma 5 desktop environment that follows all color scheme with transparency and blur&lt;br />
+&lt;br />
+NOTE: The Application menu in the Screenshot is &lt;a href="https://store.kde.org/p/1819888" target="_blank" rel="nofollow">Simple Application Launcher&lt;/a>&lt;br />
+&lt;br />
+Key features:&lt;br />
+&lt;br />
+* Rounded corners for all widget elements&lt;br />
+* Follows any color scheme and hence is usable with any Global Themes&lt;br />
+* Material You clock widget&lt;br />
+* Supports transparency: Go to `System Settings &amp;gt; Workspace Behavior &amp;gt; Desktop Effects` and enable `Blur`, `Background Contrast` and `Tranlucency` for best result.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1901768/screenshot-391.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1901768/screenshot-391.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjMzODkzNzIiLCJvIjoiMSIsInMiOiI2MzAxYjFlZDkwZDMxMDhiNjg1NWJhYTllZTE3ZTk0MDlkNGZjMTU5NDQ3YjQxZDI0NmQ3ODU2NmUwOGYyNzBkNmE5NjY3YzQxZjAxMTVkMmM1NWYyNTM5NWE5YmI1ZGNkZDg2ZTIwMDdiMWY2OWUzNjllMjkxM2VkYTEzZWY3OSIsInQiOjE2NjUxMzY0NjMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.344VrgagQBT0oCLd6CjPB5Y4dyOI4_dHRFHMtPkOwCc/Utterly-Round-Desktop.tar.xz</payload>
+  <tags>blurry,rounded,original-product,plasma,widgets,plasma##majorversion=5,kde,linux,gplv2-later,theme,unix</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

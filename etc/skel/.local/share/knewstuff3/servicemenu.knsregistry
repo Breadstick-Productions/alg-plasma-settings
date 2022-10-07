@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="102">
+  <name>SquashFS mounter / unmounter - no root required</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Shevchuk</author>
+  <homepage>https://store.kde.org/p/1410382</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>645</downloads>
+  <installedfile>/home/test/.local/share/servicemenu-download/squashfs-mount.desktop</installedfile>
+  <id>1410382</id>
+  <releasedate>2021-03-19</releasedate>
+  <summary>⋅ Mount SquashFS file using "Mount SquashFS". No root required.&lt;br />
+  ⋅ After mounting it opens created mount point in your file manager.  &lt;br />
+    It creates a mount point in `/tmp` using the name of the file being mounted + first 8 characters of file path's `sha256` hash.&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/45/12/56/1410382/9e018b5da38bcda01ac7001cfeb0c3b4edd5841bbbb198deaa30ac82d727a4e80a61.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/45/12/56/1410382/9e018b5da38bcda01ac7001cfeb0c3b4edd5841bbbb198deaa30ac82d727a4e80a61.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTYxOTA3NzYiLCJvIjoiMSIsInMiOiI2NGU0NzBiY2RjMjViOTg0M2E4ZjMwYmY3YzQ5MDBjNTU1YTY2MzY0YzgwYTMzZmRmYjU0ZjE2MThhYTIyZDk4NDg0YTU5NGUxNTViZWU2NTFiZGM2ZWRiOTQ3ZWNiMjdkOTAwZDE1NTk3MTllYzVlNWFlYjE2M2Y3Yzg3MTlkZCIsInQiOjE2NjUxMzc2OTgsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.rgObzylm1LfHuLwk7GHR_gXBZxRI6nuysCGJBFJmZX8/squashfs-mount.desktop</payload>
+  <tags>original-product,squashfs,addon,fuse,mit-license,mount</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Open Dolphin as root</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>loup</author>
+  <homepage>https://store.kde.org/p/1384645</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>68</rating>
+  <downloads>50378</downloads>
+  <installedfile>/home/test/.local/share/servicemenu-download/open_as_root.desktop</installedfile>
+  <id>1384645</id>
+  <releasedate>2021-02-04</releasedate>
+  <summary>Now you can open the dolphin with root&lt;br />
+&lt;br />
+Works with kde5 plasma&lt;br />
+&lt;br />
+Attention: if you do not know what root is, then do not download this add-on !!&lt;br />
+&lt;br />
+Rate up to support the product&lt;br />
+&lt;br />
+&lt;br />
+How to install:&lt;br />
+- Dolphin -&amp;gt; Preferences -&amp;gt; Services...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/42/80/1384645/6fc092541a11c86ddf1d928f0e61301ec5a3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/42/80/1384645/6fc092541a11c86ddf1d928f0e61301ec5a3.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI0ODUwMDUiLCJvIjoiMSIsInMiOiI1M2JmMWI5Yjc4MmE3ZGY4ZWUwZmYwOWMyOTUwYzYyZjU5YzgxZDlkYjJlNDAzZTZlNGM2YmUyYzYwZjNjNWY3MGExZjBiMDlmNzAyODc5NDFlZWEwMzczY2QxMTNkMTVkNTViZDM0YjBhN2E4MTc1ZWFhYTU4MTBmNWQ0NWMxNCIsInQiOjE2NjUxMzc2OTQsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9._hVmZwNyOdC7jKjjmkRPciux3NBu2cvqEPA5JyfkrW0/open_as_root.desktop</payload>
+  <tags>as_root,lgplv3,folder,dolpin,addon,root</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -2,23 +2,54 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="101">
-  <name>Qogir sddm</name>
+  <name>Utterly Nord</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1311077</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1909606</homepage>
   <licence></licence>
-  <version></version>
+  <version>1.0</version>
   <rating>50</rating>
-  <downloads>33363</downloads>
-  <installedfile>/tmp/Qogir.tar.xz</installedfile>
-  <id>1311077</id>
-  <releasedate>2020-05-06</releasedate>
-  <summary>Qogir sddm theme</summary>
+  <downloads>4004</downloads>
+  <installedfile>/tmp/Utterly-Nord-SDDM.tar.xz</installedfile>
+  <id>1909606</id>
+  <releasedate>2022-09-23</releasedate>
+  <summary>Utterly Nord SDDM them.&lt;br />
+&lt;br />
+To install this theme, open System Settings in Plasma and go to "Startup and Shutdown &amp;gt; Login Screen (SDDM)" and click the "Get New SDDM Themes..." button in the lower right corner. In the new window that appeared, search for "Utterly Nord" and install it.</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/7/8/5/56422790e26dae480ee6a160ba643872250f.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/7/8/5/56422790e26dae480ee6a160ba643872250f.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg3NjA3MjEiLCJvIjoiMSIsInMiOiIyNWUyZGY2MTRhM2QzZTg5ZmEwNjA2MmUzNjhkZjhkNjQ1Y2M0NmVmNjI5ODdkYWMwNmE2MDkzNGQ2MDhhMDkwOTcyMjdhZWVlNDAwOWY0ODhlZTMyMjg3YzIzYzNjNGM1Y2I3MDQ0YmU4YzZhYjJjNjg0ZWZhOGM1MzM0YmYxNiIsInQiOjE2MTc1NDQwMTMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.4kP_zGQo7B3V0hZZ2-5tDrn_suMGVhMwyFksxyWwMDI/Qogir.tar.xz</payload>
-  <tags>unix,original-product,linux,gplv3</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1909606/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1909606/preview.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjM5NDI1NDEiLCJvIjoiMSIsInMiOiJiMTA1NWY4NTA0YzZiMWRjNzNmNzY4MGI2MTdiNDI2NTYwNzMwOGRhNjgxYjBmNDk5ZGMzZGE0MDAxMGUxYzdmYWNiMjQ1YWI2NThmYzI4OGYzNDRkNWU0MGVlODdmZGVjOGU3ZWVmMjkwZmJiNTdlY2I0MmRmY2JkMmI2MzNmNSIsInQiOjE2NjUxMzY2NTAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.5OjYhdKoqyDfmEKhTwOHEF0pR6gSNprJbLSynp-j6Qc/Utterly-Nord-SDDM.tar.xz</payload>
+  <tags>gplv2-later,efi,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Infinity-SDDM</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436554</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>64</rating>
+  <downloads>62832</downloads>
+  <installedfile>/tmp/Infinity-SDDM.zip</installedfile>
+  <id>1436554</id>
+  <releasedate>2020-10-21</releasedate>
+  <summary>&lt;strong>SDDM Login Theme, customized for the Dark Plasma Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+__________________&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1436554/afcf3e0c040273b3d278c75e63ab7f62b566a97c46291317a1ccce7bc105ecf98a38.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1436554/afcf3e0c040273b3d278c75e63ab7f62b566a97c46291317a1ccce7bc105ecf98a38.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDMyNzAyMjMiLCJvIjoiMSIsInMiOiJlYjJhMjlkZDUxNjE3MjBiMWU1ZThmNDU0YjhmYmRhYTIyZDAzZjg2NDJkOGViYTE3M2VlYWMwMGE2YjRhZjRjYjEyMjg1NjA0OWI3ZTJhY2EwMTE5YWI3NjQxNmUwYWUzZjQ0YzU0MjE3NjE0MDk3OWIyYTg0NWI0ZmIxNDk2ZCIsInQiOjE2NjUxMzY2MjQsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.ZRocC5-suJTFb6gY3LwdGlTArqoaeuvJfW3qzqiQaQ0/Infinity-SDDM.zip</payload>
+  <tags>unix,gplv3,linux</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

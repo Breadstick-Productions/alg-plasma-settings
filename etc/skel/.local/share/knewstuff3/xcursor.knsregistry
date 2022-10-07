@@ -2,24 +2,46 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="107">
-  <name>McMojave cursors</name>
+  <name>Nordic cursors</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1355701</homepage>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1662218</homepage>
   <licence></licence>
   <version></version>
-  <rating>85</rating>
-  <downloads>368542</downloads>
-  <installedfile>/home/archlinuxgui/.icons/McMojave-cursors/*</installedfile>
-  <id>1355701</id>
-  <releasedate>2020-01-30</releasedate>
-  <summary>This is an x-cursor theme inspired by macOS &lt;br />
-based on capitaine-cursors &lt;a href="http:// https://github.com/keeferrourke/capitaine-cursors " target="_blank" rel="nofollow"> https://github.com/keeferrourke/capitaine-cursors &lt;/a></summary>
+  <rating>70</rating>
+  <downloads>71322</downloads>
+  <installedfile>/home/test/.icons/Nordic-cursors/*</installedfile>
+  <id>1662218</id>
+  <releasedate>2021-12-09</releasedate>
+  <summary>Cursors theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/c/1/a/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/c/1/a/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA0MDIzODkiLCJvIjoiMSIsInMiOiJiNWIzNjA2NWI0MDlkY2I5ZjI5MjBmOWZlOTA1Yjk4MGMwYmE0MjY3ZGIwZTQ2YTZiNjg2MTNkMDM2MzNmNWJjMDRhNWY1NjQxYmRkOGUwNTkxY2VmOTFhMDE1M2RmNzFiZjgzMWZkM2I4MmZmMTM1M2UxMzcxNDk1NjQ3ZWQ5MCIsInQiOjE2MTc1NDQwOTUsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.hzMnugIoAkaK147_nfxGy3XXqKwqioKdUiCPo8cT6fs/McMojave-cursors.tar.xz</payload>
-  <tags>cursor,linux,gplv3,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1662218/1ff6e2cb74570d61fdcc5739faab69fbe5cd5f982adc440e5e6ff91d8ffe967666df1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1662218/1ff6e2cb74570d61fdcc5739faab69fbe5cd5f982adc440e5e6ff91d8ffe967666df1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzkwODYwOTUiLCJvIjoiMSIsInMiOiJmMTE4ZWRkMTAzNTE5MTFmZmJiZGQyMTg3NDhiYjYzMjdkMTc4MGMxNzgzMGFhMzRjMzVmZTM4ZGY5MzcxZjU5NWRhZGQyMGU4MmVkYTQ3Y2I0MDdmMTk3NzNmY2MzNGQxOGMzM2U0ZDQwNzBmNmNhYmJjOWNkMDYwYzI2YTFmZiIsInQiOjE2NjUxMzY2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.PMiVL8vYK7296yC2DPoJGdwtIrDV606hmqZ6KkojyQ8/Nordic-cursors.tar.xz</payload>
+  <tags>gplv3,linux,cursor,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Simp1e Cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zoli111</author>
+  <homepage>https://store.kde.org/p/1405210</homepage>
+  <licence></licence>
+  <version>6.0</version>
+  <rating>91</rating>
+  <downloads>10960</downloads>
+  <installedfile>/home/test/.icons/Simp1e-Tokyo-Night/*</installedfile>
+  <id>1405210</id>
+  <releasedate>2022-08-19</releasedate>
+  <summary>An aesthetic cursor theme for Linux desktops.   &lt;br />
+&lt;br />
+Available sizes: 24x24, 32x32, 48x48 and 72x72.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/57/95/25/1405210/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/57/95/25/1405210/logo.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjA5MzQyMTMiLCJvIjoiMSIsInMiOiI0ZDE1NDY1NjkzOWQ1N2JkMjIxYTJmZjUxNjFmYjE0NDQ5MTFmMzNkMjI1YWU4ZmNmMjI0MGM4ZmNmZjExODg4NjE3NTJkNTEyMTA2ZGYxODM1ZmJlZDdjMWJiZWZkZDBmNmQxMzEyMWJkMzIwZTQxMzJiYmI4YjM0YzEyMWU5NCIsInQiOjE2NjUxMzc2MzMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.PiZIFCj0xsLoF49_lETEc4DqcSCTKBJFI-xEORyEZ5Y/Simp1e-Tokyo-Night.tgz</payload>
+  <tags>original-product,simple,cursor,dark,unix,solarized,linux,light,gplv3,breeze</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

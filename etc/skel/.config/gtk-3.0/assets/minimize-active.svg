@@ -7,16 +7,22 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.17391,0,0,2.17391,152.174,1507.91)"
-font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.25" >
-<path vector-effect="none" fill-rule="evenodd" d="M-70,-682.138 C-70,-688.489 -64.8513,-693.638 -58.5,-693.638 C-52.1487,-693.638 -47,-688.489 -47,-682.138 C-47,-675.787 -52.1487,-670.638 -58.5,-670.638 C-64.8513,-670.638 -70,-675.787 -70,-682.138 "/>
-</g>
-
-<g fill="#d3dae3" fill-opacity="1" stroke="none" transform="matrix(2.17391,0,0,2.17391,152.174,1507.91)"
+<g fill="#f67400" fill-opacity="1" stroke="none" transform="matrix(0.0552954,0,0,-0.0552959,0.290102,50.7425)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<rect x="-63" y="-682.638" width="9" height="0.999997"/>
+<path vector-effect="none" fill-rule="nonzero" d="M446.869,13.4278 C696.568,13.4278 898.988,215.847 898.988,465.538 C898.988,715.235 696.568,917.654 446.869,917.654 C197.173,917.654 -5.24642,715.235 -5.24642,465.538 C-5.24642,215.847 197.173,13.4278 446.869,13.4278 "/>
+</g>
+
+<g fill="#eff0f1" fill-opacity="1" stroke="none" transform="matrix(0.0552954,0,0,-0.0552959,0.290102,50.7425)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M190.388,465.536 L703.354,465.536"/>
+</g>
+
+<g fill="none" stroke="#eff0f1" stroke-opacity="1" stroke-width="120" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0552954,0,0,-0.0552959,0.290102,50.7425)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M190.388,465.536 L703.354,465.536"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

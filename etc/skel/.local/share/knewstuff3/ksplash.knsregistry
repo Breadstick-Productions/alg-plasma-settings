@@ -9,16 +9,16 @@
   <licence></licence>
   <version></version>
   <rating>58</rating>
-  <downloads>3014</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/plasma/look-and-feel/YaplassArchLinux</installedfile>
+  <downloads>10034</downloads>
+  <installedfile>/home/test/.local/share/plasma/look-and-feel/YaplassArchLinux</installedfile>
   <id>1477196</id>
   <releasedate>2021-01-31</releasedate>
   <summary>YAPLASS (Yet Another Plasma Splash Screen) - ArchLinux version</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/f/9/f/209940151719f31ed26fe7190ba6ac2e5bd9df48516086b1cc0c27f8e87c8d38b122.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/f/9/f/209940151719f31ed26fe7190ba6ac2e5bd9df48516086b1cc0c27f8e87c8d38b122.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIxMzQ0OTMiLCJvIjoiMSIsInMiOiI3M2E1ZmMzNWI5MWNmMGZiNWQ1MjEyYmRkYmMxMGZhMDc4ODdhNmQ3ZjUzNzA3MjYwZGE3YWU5ZGVhMzNlYTZhNjRiMGI1YTc3OGMyY2RhMmVkODk3NmM1YmMwOGJjZTc1MGRmZTZkZDU4NThjZWFmZjU0ZWU0M2E3N2U0NDAyZiIsInQiOjE2MTc1NDQxMzAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.q5D325jQcS8JbB-KinIoJW3bas1cxcqYc2YZOPIcmp0/YaplassArchLinux.tar.gz</payload>
-  <tags>archlinux,theme,plasma,plasma##majorversion=5,splashscreen,gplv3,kde,linux,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/00/34/53/1477196/209940151719f31ed26fe7190ba6ac2e5bd9df48516086b1cc0c27f8e87c8d38b122.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/00/34/53/1477196/209940151719f31ed26fe7190ba6ac2e5bd9df48516086b1cc0c27f8e87c8d38b122.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIxMzQ0OTMiLCJvIjoiMSIsInMiOiI3MDZkMTJjYzQ5Y2FhZTZmMDk3MmExN2Q0MWZkMTI4YTkyYWVhMDI5N2JmOGE5NDdlZTg2ZmE3ZWVlOTQ4M2VkOTE4Mjg0NTU0NmQ3MDFjMmNiZjJmMzkyMGZkYjgxMmIxNjBkM2Y1MGFhN2JkY2QzNmUyMzIzZDNlZTA3MTIzYyIsInQiOjE2NjUxMzg0ODAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.HrolJ9jN7UPa_ahURciADgx_uvHH4J7zdqeIQI9TKCI/YaplassArchLinux.tar.gz</payload>
+  <tags>plasma##majorversion=5,plasma,archlinux,gplv3,kde,linux,splashscreen,theme,unix</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

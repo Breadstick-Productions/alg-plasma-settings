@@ -2,30 +2,26 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="121">
-  <name>Qogir Look-and-Feel Theme</name>
+  <name>Utterly Nord</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1298345</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1904859</homepage>
   <licence></licence>
-  <version></version>
-  <rating>81</rating>
-  <downloads>38425</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/plasma/look-and-feel/com.github.vinceliuice.Qogir-dark</installedfile>
-  <id>1298345</id>
-  <releasedate>2020-05-07</releasedate>
-  <summary>&lt;strong> Qogir KDE Plasma Look-and-Feel Theme &lt;/strong>&lt;br />
--------------------------------&lt;br />
-Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+  <version>1.8</version>
+  <rating>57</rating>
+  <downloads>1512</downloads>
+  <installedfile>/home/test/.local/share/plasma/look-and-feel/Utterly-Nord</installedfile>
+  <id>1904859</id>
+  <releasedate>2022-10-03</releasedate>
+  <summary>A Global theme for Plasma 5 with transparency, blur, rounded edges for UI elements, Tela Circle Nord icons, Nord Color Palette and inspired wallpaper and a reasonable desktop layout with a top panel, dock and a Android 12 like clock widget.&lt;br />
 &lt;br />
--------------------------------&lt;br />
-&lt;strong> Recommendations &lt;/strong>&lt;br />
 &lt;br />
- For better looking please use this pack...</summary>
+NOTE: Installing the Global Theme...</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg4MzgyMTkiLCJvIjoiMSIsInMiOiIwNGRiOTFmNDhkMGIzMDlkOWEyODM5YWNhNDYzZWU3ZDFkOWFjZGI3MjUzMDVhZDcyMDAzMzRkMjFhOTJmYTBmMzdkOTdjMzJmNTg4NzY1MjdmOTVjYTE2NGJjYzNkN2UxNGNiYTg1OTU2NDQ1NjIwMTljMGNkMjhjYjEwZWRmOCIsInQiOjE2MTc1NDM5NjUsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.UVQaYmAnn4TzzHKBWTA9OSKicISJDF2Vq-v__VNmL3c/01-com.github.vinceliuice.Qogir-dark.tar.xz</payload>
-  <tags>kde,linux,look-and-feel,gplv3,original-product,plasma,theme,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1904859/20220916-214556-utterly-nord.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1904859/20220916-214556-utterly-nord.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQ3Njg5OTUiLCJvIjoiMSIsInMiOiJmOWZhNThiNzFkZDhkNzhkYjgxNjE0ZWEyZjJiMGViNTM3OTJiOWNhMmNlODYxOWI0Zjg2MzRhMGIxNWVkODUxOWY2ZTg2ZGJhMTM0ZTI4MzExMGVkNjBmMTE1NGE2ODZiZTE5NjhiNTgyNWMzMTkwNDNiMWJmOTcwMjJhODFmOCIsInQiOjE2NjUxMzY1OTIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.ySFcgIWwuHIgo6aOGjE8MipngU6bqdjiyUYsPArVnUk/Utterly-Nord.tar.xz</payload>
+  <tags>blur,round,nord,nordic,original-product,plasma,gplv2-later,look-and-feel,linux,kde,theme,unix</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

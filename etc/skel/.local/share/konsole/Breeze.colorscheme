@@ -89,8 +89,11 @@ Color=239,240,241
 Color=255,255,255
 
 [General]
-Blur=false
+Anchor=0.5,0.5
+Blur=true
 ColorRandomization=false
 Description=Breeze
-Opacity=0.7
+FillStyle=Tile
+Opacity=0.55
 Wallpaper=
+WallpaperOpacity=1

@@ -2,36 +2,60 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="114">
-  <name>Qogir Aurorae Theme</name>
+  <name>Utterly Round</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1298366</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1903823</homepage>
   <licence></licence>
-  <version></version>
-  <rating>73</rating>
-  <downloads>54989</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-circle/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-dark/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-light-circle/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-light/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-dark-circle/*</installedfile>
-  <id>1298366</id>
-  <releasedate>2020-03-11</releasedate>
-  <summary>&lt;strong> Qogir KDE Aurorae Theme &lt;/strong>&lt;br />
+  <version>1.2</version>
+  <rating>50</rating>
+  <downloads>12256</downloads>
+  <installedfile>/home/test/.local/share/aurorae/themes/Utterly-Round/*</installedfile>
+  <id>1903823</id>
+  <releasedate>2022-09-15</releasedate>
+  <summary>Rounded Window borders for KDE Plasma 5 desktop environment that follows all color scheme with transparency and blur&lt;br />
 &lt;br />
-Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+* To blend window decoration with background, install and use the Color Scheme, Kvantum Theme and Konsole Color Scheme from the below Global Theme&lt;br />
+&lt;a href="https://www.pling.com/p/1904859/" target="_blank" rel="nofollow">Utterly Nord&lt;/a>, &lt;a href="https://store.kde.org/p/1906500/" target="_blank" rel="nofollow">Utterly Sweet&lt;/a>&lt;br />
 &lt;br />
-&lt;strong> Recommendations &lt;/strong>&lt;br />
+Key features:&lt;br />
 &lt;br />
- For better looking please use this pack with:&lt;br />
-&lt;br />
-&lt;strong>１.&lt;/strong>--Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+* Blends with Window background when appropriate Kvantum theme and Konsole Color Scheme is used&lt;br />
+* Rounded corners&lt;br />
+* Follows any color scheme and hence is usable with any Global Theme&lt;br />
+* Supports transparency: Go to `System Settings &amp;gt; Workspace Behavior &amp;gt; Desktop Effects` and enable `Blur`, `Background Contrast` and `Tranlucency` for best result.</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODM5MDYyMzIiLCJvIjoiMSIsInMiOiJlMDIyNWE5OWJhNzc4YjM1ZDM5NjQyMjdkYjk2MDE5OTJmMzUyZTViNTM0MDIzNjdlZDA2Njk2MWRlNGFiYTMyMjc1YjFhZDMwOTQ2NjFiMzQ2MDZjZWMxNjY2MWY3MWJiNTkxNmFlNDU1OGViMTViZTQ1NTlhMjE5OTM4NmViOSIsInQiOjE2MTc1NDM5ODksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.oLGPbaroh8BGNbz40aIa8t960g45Kyd4SgkrlBTNBCo/Qogir.tar.xz</payload>
-  <tags>unix,theme,plasma,original-product,kde,linux,gplv3</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1903823/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1903823/logo.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjMyMTMyNjciLCJvIjoiMSIsInMiOiI1YzJjZjY1ZTdhYWIzYTgyZjAzYzEzYzZlYjQ1ZWVkOWMzY2UxZjMwMmNlMTk5ZmQxZWNjNjViMTcxY2ZiNmY5Mzg2NTU5YjVkODliYTIwY2ViYTBjYjRjZjAxZDRlOWQ0ZmIxZTU5MzQ3YjFlMWE4YmVjMmFmZDA3Njc0YjMwMSIsInQiOjE2NjUxMzY0MzgsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.-z_9gRdhe-VZyC1uJownn_iX3p8zB5HL0fQausEmJYk/Utterly-Round-Aurorae.tar.xz</payload>
+  <tags>windowdeco,round,original-product,plasma,aurorae,unix,theme,kde,linux,mac,macos,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Infinity-Solid-Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1439900</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>2329</downloads>
+  <installedfile>/home/test/.local/share/aurorae/themes/Infinity-Solid-Aurorae/*</installedfile>
+  <id>1439900</id>
+  <releasedate>2022-07-27</releasedate>
+  <summary>&lt;strong>Dark Aurorae Theme, customized for the Dark Plasma Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1439900/3add7017e5adc67c31bdd7f8f54158a24cccbdc29297d226330bf2ff17abe19a5a43.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1439900/3add7017e5adc67c31bdd7f8f54158a24cccbdc29297d226330bf2ff17abe19a5a43.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTg5MTEzNTUiLCJvIjoiMSIsInMiOiJhYjIyMGY0N2ZmOGQ3YjhhNDQyNWZjOTgxZjk1OGNlMGVjMzM0MTQ1NmUyZTEwNmY0NjZkNTNiYWI5MzMzYTYyMTgxM2JhY2NiNDNlOTlkZGNjODMzNDlmYTkxMWExZDRjOTgxNmMxNzEwNDEyNGZjMDQ1YTQxZGRmNmNhZmRhZSIsInQiOjE2NjUxMzY1MjcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.lFZeYgBZnz5eLAPka_v3elasAcPB5sor2hwwKU5Vhv8/Infinity-Solid-Aurorae.zip</payload>
+  <tags>gplv3,kde,efi,linux,unix,theme,plasma</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

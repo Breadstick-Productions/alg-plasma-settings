@@ -2,33 +2,63 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="112">
-  <name>Qogir colors</name>
+  <name>Utterly Nord</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1298431</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1903937</homepage>
   <licence></licence>
-  <version></version>
-  <rating>73</rating>
-  <downloads>44870</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/color-schemes/Qogir.colors</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/color-schemes/Qogirdark.colors</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/color-schemes/Qogirlight.colors</installedfile>
-  <id>1298431</id>
-  <releasedate>2020-04-02</releasedate>
-  <summary>&lt;strong> Qogir KDE Plasma Theme &lt;/strong>&lt;br />
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>5749</downloads>
+  <installedfile>/home/test/.local/share/color-schemes/UtterlyNord.colors</installedfile>
+  <id>1903937</id>
+  <releasedate>2022-09-13</releasedate>
+  <summary>A Nordic Color Scheme for Plasma&lt;br />
 &lt;br />
-Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
-&lt;br />
-&lt;strong> Recommendations &lt;/strong>&lt;br />
-&lt;br />
-For better looking please use this with:&lt;br />
-&lt;br />
-&lt;strong>1.&lt;/strong> --Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a>.</summary>
+Global Theme in Screenshots: &lt;a href="https://store.kde.org/p/1904859/" target="_blank" rel="nofollow">Utterly Nord&lt;/a>&lt;br />
+Application Launcher in Screenshot: &lt;a href="https://store.kde.org/p/1819888/" target="_blank" rel="nofollow">Simple Application launcher&lt;/a>&lt;br />
+Konsole Color Scheme in Screenshot: &lt;a href="https://store.kde.org/p/1903869/" target="_blank" rel="nofollow">Utterly Nord&lt;/a>&lt;br />
+Wallpaper in Screenshot: &lt;a href="https://store.kde.org/p/1904144/" target="_blank" rel="nofollow">Utterly Nord&lt;/a>&lt;br />
+Window Decoration in Screenshot: (url=https://store.kde.org/p/1903823/]Utterly Round[/url]&lt;br />
+Icons in Screenshot: &lt;a href="https://store.kde.org/p/1359276/" target="_blank" rel="nofollow">Tela Circle Nord&lt;/a> (Choose the Nord Variant while installing)&lt;br />
+NeoFetch theme in Screenshots: &lt;a href="https://github.com/HimDek/neofetch-themes/blob/main/normal/acenoster.conf" target="_blank" rel="nofollow">Acenoster Fetch&lt;/a> (Save this file as "~/.config/neofetch/config.conf")&lt;br />
+oh-my-zsh theme in Screenshots: &lt;a href="https://github.com/HimDek/Acenoster-ZSH-Theme/" target="_blank" rel="nofollow">Acenoster ZSH Theme&lt;/a></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODU4MDgxNDciLCJvIjoiMSIsInMiOiI2NWQ3NDEyYTgzNThlYjRkYjg1NmRlZGMxNGRkMmE4YTUyY2E0ZmUwMDMyNDNiOTRmYmNkYzVkZjZhOTI1NzhkZGE1MjY4NzY0OGNmZDU1YzA5ZWE0YmFjMDFkNGM2N2ZhZmNjYzE0ZGViOTBhMjdlODllMDM5ZTFmMDU3MmI3NCIsInQiOjE2MTc1NDM5NzEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.vorKrI3NlvD3Lp52YeovUYS9tcgjKDA_M4wET-gQeEE/Qogir.tar.xz</payload>
-  <tags>kde,gplv3,linux,unix,colorscheme,plasma,original-product,theme</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1903937/screenshot-642.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1903937/screenshot-642.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjMwODA0NDgiLCJvIjoiMSIsInMiOiJkYWY0NTQ0NGQwODMxNmQyNGQ4NTE3ZDYxYTI4M2E5YzM2N2Y1ZmU3ODBlN2FkOWUyNzZhYjYxMzhmYmEwYmFkZWEzODAyYzUxN2QxZTlkYmJjNmI3ZjhmNWQ1ZmY3Yjc4YjAxZmM5MTE0MTNiZGUyMWMyNTViYzI5MzA3YTBmMyIsInQiOjE2NjUxMzY0NDIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.OmPc3d6GQq221fJ4cPBFOjHWkVkcPY0tVcS0u1TAbwg/Utterly-Nord-Colors.tar.gz</payload>
+  <tags>theme,unix,colorscheme,colorful,original-product,plasma,nord,nordic,kde,gplv2-later,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Infinity-Dark-Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436564</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>641</downloads>
+  <installedfile>/home/test/.local/share/color-schemes/InfinityDarkColor.colors</installedfile>
+  <id>1436564</id>
+  <releasedate>2022-09-28</releasedate>
+  <summary>&lt;strong>Dark Colorsheme, customized for the Dark Plasma Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Colorsheme For Light Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436562/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1436564/screenshot-20220928-151132.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1436564/screenshot-20220928-151132.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQzODc0NTUiLCJvIjoiMSIsInMiOiJjNWFlZTRjYTMxNzlmZjkyZGJhN2I0ZTMxNGJmZjQzMWFjOTc2OWM0Zjc1YmQxZTBhYjFlYTg0NWQ0ZmQxOGJmOThiZGQwY2IxNmFjZjIwZmMwOGFkNzAyODg2MDZjNTAyMTU4ZDllMjhiNWMzY2MyNGE2Nzg3MTJjOWI1YWYzNiIsInQiOjE2NjUxMzY1MTcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNyJ9.BZxls8MGGPmMjMvSMAAfswuorQ0pA9QJbQikJNveZKU/InfinityDarkColor.colors</payload>
+  <tags>unix,theme,original-product,plasma,colorscheme,linux,gplv3,kde</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>
