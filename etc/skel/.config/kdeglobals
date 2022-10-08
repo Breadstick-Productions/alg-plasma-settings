@@ -109,6 +109,13 @@ ForegroundVisited=143,188,187
 
 [General]
 ColorSchemeHash=1fa1052fbf111c75c17fe964711be078ccc9b522
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=JetBrainsMono Nerd Font,10,-1,5,50,0,0,0,0,0
+font=Segoe UI Variable Static Display,10,-1,5,50,0,0,0,0,0
+menuFont=Segoe UI Variable Static Display,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Segoe UI Variable Static Display,8,-1,5,50,0,0,0,0,0
+toolBarFont=Segoe UI Variable Static Display,10,-1,5,50,0,0,0,0,0
 
 [Icons]
 Theme=BeautyLine
