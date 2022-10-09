@@ -24,7 +24,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file://$HOME">
+ <bookmark href="file://$HOME/Desktop">
   <title>Desktop</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -36,7 +36,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file://$HOME">
+ <bookmark href="file://$HOME/Documents">
   <title>Documents</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -72,7 +72,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file://$HOME">
+ <bookmark href="file://$HOME/Pictures">
   <title>Pictures</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -84,7 +84,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file://$HOME">
+ <bookmark href="file://$HOME/Videos">
   <title>Videos</title>
   <info>
    <metadata owner="http://freedesktop.org">
