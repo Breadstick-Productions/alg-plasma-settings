@@ -13,7 +13,7 @@
    <GroupState-RecentlySaved-IsHidden>false</GroupState-RecentlySaved-IsHidden>
   </metadata>
  </info>
- <bookmark href="file:///home/test">
+ <bookmark href="file:///home/$USER">
   <title>Home</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -25,7 +25,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/test/Desktop">
+ <bookmark href="file:///home/$USER/Desktop">
   <title>Desktop</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -37,7 +37,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/test/Documents">
+ <bookmark href="file:///home/$USER/Documents">
   <title>Documents</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -49,7 +49,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/test/Downloads">
+ <bookmark href="file:///home/$USER/Downloads">
   <title>Downloads</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -61,7 +61,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/test/Music">
+ <bookmark href="file:///home/$USER/Music">
   <title>Music</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -73,7 +73,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/test/Pictures">
+ <bookmark href="file:///home/$USER/Pictures">
   <title>Pictures</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -85,7 +85,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/test/Videos">
+ <bookmark href="file:///home/$USER/Videos">
   <title>Videos</title>
   <info>
    <metadata owner="http://freedesktop.org">

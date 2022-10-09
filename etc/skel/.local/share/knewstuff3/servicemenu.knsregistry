@@ -10,7 +10,7 @@
   <version></version>
   <rating>50</rating>
   <downloads>645</downloads>
-  <installedfile>/home/test/.local/share/servicemenu-download/squashfs-mount.desktop</installedfile>
+  <installedfile>/home/$USER/.local/share/servicemenu-download/squashfs-mount.desktop</installedfile>
   <id>1410382</id>
   <releasedate>2021-03-19</releasedate>
   <summary>⋅ Mount SquashFS file using "Mount SquashFS". No root required.&lt;br />
@@ -32,7 +32,7 @@
   <version>1.1</version>
   <rating>68</rating>
   <downloads>50378</downloads>
-  <installedfile>/home/test/.local/share/servicemenu-download/open_as_root.desktop</installedfile>
+  <installedfile>/home/$USER/.local/share/servicemenu-download/open_as_root.desktop</installedfile>
   <id>1384645</id>
   <releasedate>2021-02-04</releasedate>
   <summary>Now you can open the dolphin with root&lt;br />

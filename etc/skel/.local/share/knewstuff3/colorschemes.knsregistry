@@ -10,7 +10,7 @@
   <version>1.0</version>
   <rating>50</rating>
   <downloads>5749</downloads>
-  <installedfile>/home/test/.local/share/color-schemes/UtterlyNord.colors</installedfile>
+  <installedfile>/home/$USER/.local/share/color-schemes/UtterlyNord.colors</installedfile>
   <id>1903937</id>
   <releasedate>2022-09-13</releasedate>
   <summary>A Nordic Color Scheme for Plasma&lt;br />
@@ -39,7 +39,7 @@ oh-my-zsh theme in Screenshots: &lt;a href="https://github.com/HimDek/Acenoster-
   <version>1.0</version>
   <rating>50</rating>
   <downloads>641</downloads>
-  <installedfile>/home/test/.local/share/color-schemes/InfinityDarkColor.colors</installedfile>
+  <installedfile>/home/$USER/.local/share/color-schemes/InfinityDarkColor.colors</installedfile>
   <id>1436564</id>
   <releasedate>2022-09-28</releasedate>
   <summary>&lt;strong>Dark Colorsheme, customized for the Dark Plasma Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />

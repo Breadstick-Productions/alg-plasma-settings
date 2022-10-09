@@ -10,7 +10,7 @@
   <version>Full</version>
   <rating>93</rating>
   <downloads>146017</downloads>
-  <installedfile>/home/test/.local/share/icons/BeautyLine/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/BeautyLine/*</installedfile>
   <id>1425426</id>
   <releasedate>2021-12-20</releasedate>
   <summary>outlined icons Designed to have unified look and comprehensive coverage.&lt;br />
@@ -34,7 +34,7 @@ Most of Famous DE's are...</summary>
   <version></version>
   <rating>68</rating>
   <downloads>1979</downloads>
-  <installedfile>/home/test/.local/share/icons/Breeze-Chameleon Light/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/Breeze-Chameleon Light/*</installedfile>
   <id>1298508</id>
   <releasedate>2022-09-30</releasedate>
   <summary>The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
@@ -66,8 +66,8 @@ Icons for Dark Plasma Themes:&lt;br />
   <version></version>
   <rating>92</rating>
   <downloads>17639</downloads>
-  <installedfile>/home/test/.local/share/icons/Tela-circle-dark/*</installedfile>
-  <installedfile>/home/test/.local/share/icons/Tela-circle/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/Tela-circle/*</installedfile>
   <id>1359276</id>
   <releasedate>2022-09-17</releasedate>
   <summary>&lt;strong> Tela circle Icon Theme &lt;/strong>&lt;br />
@@ -101,7 +101,7 @@ You can use this theme on all popular desktops&lt;br />
   <version></version>
   <rating>84</rating>
   <downloads>8674</downloads>
-  <installedfile>/home/test/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
   <id>1281798</id>
   <releasedate>2022-09-30</releasedate>
   <summary>The folders change color depending on the&lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
@@ -135,7 +135,7 @@ Icons for Light Plasma Themes:&lt;br />
   <version>1.0</version>
   <rating>76</rating>
   <downloads>289</downloads>
-  <installedfile>/home/test/.local/share/icons/Infinity-Dark-Icons/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/Infinity-Dark-Icons/*</installedfile>
   <id>1436570</id>
   <releasedate>2022-10-05</releasedate>
   <summary>&lt;strong>Icons for Dark Plasma Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
@@ -175,7 +175,7 @@ ______________________&lt;br />
   <version>1.0</version>
   <rating>49</rating>
   <downloads>170</downloads>
-  <installedfile>/home/test/.local/share/icons/Infinity-Light-Icons/*</installedfile>
+  <installedfile>/home/$USER/.local/share/icons/Infinity-Light-Icons/*</installedfile>
   <id>1436567</id>
   <releasedate>2022-10-05</releasedate>
   <summary>&lt;strong>Icons for Light Plasma Themes  &lt;br />

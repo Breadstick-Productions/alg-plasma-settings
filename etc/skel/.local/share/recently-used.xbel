@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
-  <bookmark href="file:///home/test/Downloads/wallpaperflare.com_wallpaper.jpg" added="2022-10-07T09:07:01.438000Z" modified="2022-10-07T09:07:01.438000Z" visited="2022-10-07T09:07:01.438000Z">
+  <bookmark href="file:///home/$USER/Downloads/wallpaperflare.com_wallpaper.jpg" added="2022-10-07T09:07:01.438000Z" modified="2022-10-07T09:07:01.438000Z" visited="2022-10-07T09:07:01.438000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -13,7 +13,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/test/Downloads/stretched-1920-1080-599379.jpg" added="2022-10-07T09:09:12.430000Z" modified="2022-10-07T09:09:12.430000Z" visited="2022-10-07T09:09:12.430000Z">
+  <bookmark href="file:///home/$USER/Downloads/stretched-1920-1080-599379.jpg" added="2022-10-07T09:09:12.430000Z" modified="2022-10-07T09:09:12.430000Z" visited="2022-10-07T09:09:12.430000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -26,7 +26,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/test/.bash_history" added="2022-10-07T09:15:12.950000Z" modified="2022-10-07T09:32:59.493000Z" visited="2022-10-07T09:32:59.493000Z">
+  <bookmark href="file:///home/$USER/.bash_history" added="2022-10-07T09:15:12.950000Z" modified="2022-10-07T09:32:59.493000Z" visited="2022-10-07T09:32:59.493000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -56,7 +56,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/test/.zsh_history" added="2022-10-07T09:31:55.274000Z" modified="2022-10-07T09:33:10.221000Z" visited="2022-10-07T09:33:10.221000Z">
+  <bookmark href="file:///home/$USER/.zsh_history" added="2022-10-07T09:31:55.274000Z" modified="2022-10-07T09:33:10.221000Z" visited="2022-10-07T09:33:10.221000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
