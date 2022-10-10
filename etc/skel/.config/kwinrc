@@ -8,3 +8,6 @@ OpenGLIsUnsafe=false
 Id_1=ffee94cd-430e-4ee5-8524-f10b3c417443
 Number=1
 Rows=1
+
+[TabBox]
+LayoutName=thumbnails
