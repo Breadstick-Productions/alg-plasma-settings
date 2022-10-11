@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 
 if [ 'ping google.com -c 4 | grep time' != "" ]; then
   echo "we have connectivity"
+  sudo pacman-key --init
   sudo pacman-key --populate archlinux
   sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com; sudo pacman-key --lsign-key FBA220DFC880C036
   mv ~/.zshrc.copy ~/.zshrc
