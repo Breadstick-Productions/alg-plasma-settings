@@ -100,7 +100,17 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-if [ 'ping google.com -c 4 | grep time' != "" ]; then
+sudo_response=$(SUDO_ASKPASS=/bin/false sudo -A whoami 2>&1 | wc -l)
+if [ $sudo_response = 2 ]; then
+    can_sudo=1
+elif [ $sudo_response = 1 ]; then
+    can_sudo=0
+else
+    echo "Unexpected sudo response: $sudo_response" >&2
+    exit 1
+fi
+
+if [ 'ping google.com -c 4 | grep time' != "" && can_sudo=1 ]; then
   echo "we have connectivity"
   sudo pacman-key --init
   sudo pacman-key --populate archlinux
