@@ -78,7 +78,7 @@ DialogWidth=720
 
 [Containments][2][Applets][5][Configuration][General]
 iconSpacing=0
-launchers=applications:google-chrome.desktop,preferred://filemanager,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.konsole.desktop
+launchers=applications:google-chrome.desktop,preferred://filemanager,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications
 
 [Containments][2][Applets][6]
 immutability=1
