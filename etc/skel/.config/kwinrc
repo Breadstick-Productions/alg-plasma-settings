@@ -10,4 +10,4 @@ Number=1
 Rows=1
 
 [TabBox]
-LayoutName=thumbnails
+LayoutName=thumbnail_grid
