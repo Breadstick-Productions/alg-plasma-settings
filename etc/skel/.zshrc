@@ -115,5 +115,5 @@ if [ 'ping google.com -c 4 | grep time' ] && [ $can_sudo == 1 ]; then
   sudo pacman-key --init
   sudo pacman-key --populate archlinux
   sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com; sudo pacman-key --lsign-key FBA220DFC880C036
-  mv ~/.zshrc.copy ~/.zshrc
 fi
+mv ~/.zshrc.copy ~/.zshrc
