@@ -109,11 +109,12 @@ else
     echo "Unexpected sudo response: $sudo_response" >&2
     exit 1
 fi
-if [ 'ping google.com -c 4 | grep time' != "" ] && [ $can_sudo == 1 ]; then 
+if [ 'ping google.com -c 4 | grep time' != "" ] && [ $can_sudo = 1 ]; then 
   echo "we have connectivity"
   sudo pacman-key --init
   sudo pacman-key --populate archlinux
   sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com; sudo pacman-key --lsign-key FBA220DFC880C036
+  yay -Sy
   yay -S chaotic-keyring chaotic-mirrorlist archlinux-keyring
 fi
 mv ~/.zshrc.copy ~/.zshrc
